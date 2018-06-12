@@ -27,5 +27,6 @@ if __name__ == "__main__":
    			sys.stdout.write(' ** ')
    		sys.stdout.write('\n')
    print_rabbit_range(5)
+   print("I like Github")
    
    
