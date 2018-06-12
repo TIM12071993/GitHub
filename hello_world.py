@@ -15,7 +15,7 @@ if __name__ == "__main__":
             sys.stdout.write('  | ')
         sys.stdout.write('\n\n')
    print_palmtrees(7)
-   print ("check")
+   print ("Hello Again")
    
    
    
